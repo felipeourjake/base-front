@@ -1,0 +1,23 @@
+/* 
+    Author     : FelipeMello - Foxid
+    Site       : 
+*/
+
+/*reset*/
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none ;
+    outline: 0;
+    font-family: 'Verdana','Arial','Sans-Serif';
+}
+
+textarea{font-size: 13px; resize: none;}
+img{border: 0 none;}
+
+/* 
+|-------------------------------------------------------|
+   HOME 
+|-------------------------------------------------------|
+*/
+

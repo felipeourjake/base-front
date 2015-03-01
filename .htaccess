@@ -1,0 +1,6 @@
+# bloqueio de arquivos
+Options -Indexes
+Options +FollowSymlinks
+
+RewriteEngine on
+RewriteRule ^pagina$  pagina.php [L]
