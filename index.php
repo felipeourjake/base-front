@@ -5,8 +5,10 @@
         
         <!--CSS-->
         <link rel="stylesheet" type="text/css" href="css/style.css" />
+        
+        <!-- Novo CSS do pluguin Jquery -->
         <link rel="stylesheet" type="text/css" href="css/jquery.css" />
-
+        <!-- Novo CSS do pluguin Jquery -->
         <!--HTML5-->
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 
