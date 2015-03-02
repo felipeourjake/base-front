@@ -5,6 +5,7 @@
         
         <!--CSS-->
         <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <link rel="stylesheet" type="text/css" href="css/jquery.css" />
 
         <!--HTML5-->
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
